@@ -3,7 +3,7 @@
 <!--
 **neulinkim/neulinkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img_width="100%" src = "https://github.com/neulinkim/neulinkim/assets/118242357/17b6cfb8-313b-4419-bd80-16d6c13879db">
+https://github.com/neulinkim/neulinkim/assets/118242357/17b6cfb8-313b-4419-bd80-16d6c13879db
 
 Here are some ideas to get you started:
 
